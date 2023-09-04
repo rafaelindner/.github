@@ -4,5 +4,5 @@ Regarding the number of IF4Health collaborators increasing, we needed to group o
 
 We chose the electrocardiogram (ECG) as the first case study. The figure overviews the IF4Health repos and how they are connected. Soon, we will expand to other biosignals.
 
-![Overview of if4health projects/repos.](https://github.com/if4health/.github/blob/main/2023-if4health-projects-overview.png)
+![Overview of if4health projects/repos.](https://github.com/if4health/.github/blob/main/if4health-ecg-projects-overview.png)
 
